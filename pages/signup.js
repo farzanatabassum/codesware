@@ -27,14 +27,6 @@ const Signup
           <input id="email-address" name="email" type="email" autocomplete="email" required class="relative block w-full appearance-none rounded-none rounded-t-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-gray-500 focus:outline-none focus:ring-gray-500 sm:text-sm" placeholder="Email address"/>
         </div>
         <div>
-          <label for="address" class="sr-only">Address</label>
-          <input id="address" name="address" type="text" autocomplete="address" required class="relative block w-full appearance-none rounded-none rounded-t-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-gray-500 focus:outline-none focus:ring-gray-500 sm:text-sm" placeholder="Address"/>
-        </div>
-        <div>
-          <label for="phone-number" class="sr-only">Phone number</label>
-          <input id="phone-number" name="phone" type="number" autocomplete="phone" required class="relative block w-full appearance-none rounded-none rounded-t-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-gray-500 focus:outline-none focus:ring-gray-500 sm:text-sm" placeholder="Phone number"/>
-        </div>
-        <div>
           <label for="password" class="sr-only">Password</label>
           <input id="password" name="password" type="password" autocomplete="current-password" required class="relative block w-full appearance-none rounded-none rounded-b-md border border-gray-300 px-3 py-2 text-gray-900 placeholder-gray-500 focus:z-10 focus:border-gray-500 focus:outline-none focus:ring-gray-500 sm:text-sm" placeholder="Password"/>
         </div>
