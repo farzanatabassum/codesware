@@ -9,7 +9,7 @@ const Signup
   <div class="w-full max-w-md space-y-8">
     <div>
     <h1 class="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">Regalia</h1>
-      <h2 class="mt-6 text-center text-xl font-bold tracking-tight text-gray-900">SIGN UP FOR AN ACCOUNT</h2>
+      <h2 class="mt-6 text-center text-lg font-bold tracking-tight text-gray-900">SIGN UP FOR AN ACCOUNT</h2>
       <p class="mt-2 text-center text-sm text-gray-600">
         Or
        <Link href='/login'><a href="#" class="font-medium text-gray-800 hover:text-gray-600"> LOGIN</a></Link>
